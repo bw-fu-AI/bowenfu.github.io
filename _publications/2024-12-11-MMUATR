@@ -1,9 +1,13 @@
 ---
 title: "Constructing a Multi-Modal based Underwater Acoustic Target Recognition Method with a Pre-trained Language-Audio Model"
-collection: IEEE Transactions on Geoscience and Remote Sensing
+collection: publications
+category: manuscripts
 permalink: /publication/2024-12-11-MMUATR
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-12-11
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/abstract/document/10792979)'
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10792979'
 citation: 'Fu B, et al. Constructing a Multi-Modal Based Underwater Acoustic Target Recognition Method With a Pre-Trained Language-Audio Model[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.'
 ---
 
