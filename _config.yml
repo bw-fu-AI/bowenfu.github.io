@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Bowen Fu / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Bowen Fu"
+description              : &description "A Phd Student from Northwestern Polytechnical University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bw-fu-ai.github.io/bowenfu.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -40,9 +40,9 @@ author:
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://github.com/bw-fu-AI" # URL
-  scopus           : # URL
+  # scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
