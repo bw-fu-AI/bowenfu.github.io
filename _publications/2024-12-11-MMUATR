@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Constructing a Multi-Modal based Underwater Acoustic Target Recognition Method with a Pre-trained Language-Audio Model"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-11-MMUATR
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
-venue: 'Journal 1'
+venue: '2024-12-11'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10792979'
+citation: 'Fu B, et al. Constructing a Multi-Modal Based Underwater Acoustic Target Recognition Method With a Pre-Trained Language-Audio Model[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Underwater acoustic target recognition (UATR) aims to accurately identify radiated acoustic signals from ships in complex maritime environments. The challenges of this task lay in how to explore discriminative representation from complex and limited acoustic samples. Recently, various deep learning-based UATR methods have been proposed. However, their performance on real sonar-collected signals remains restricted. On one hand, most methods currently adopt different representation extraction strategies to extract features from acoustic signals such as time-frequency (T-F) representation, wave representation, and joint representation. However, the limited feature representation capability and simple feature fusion strategies often limit the recognition performance improvement. On the other hand, they often overlook the knowledge gains brought by pre-trained models and the extraction of multifeature semantic correlation knowledge. This leads to unsatisfactory performance and even overfitting issues. To mitigate these issues, this article proposes a multifeature UATR (MF-UATR) method. It introduces a strongly generalized multi-modal pre-trained language-audio model and contrastive learning-based feature-level fusion strategy to semantically guide and fuse multiple features. This strategy facilitates the model in learning prior knowledge and the semantic correlations between features thereby improving recognition performance. In addition, we also considered the few-shot scenarios with extremely limited data, in which a multi-modal few-shot UATR (MMFS-UATR) scheme is proposed. It efficiently completes the few-shot UATR (FS-UATR) task by combining parameter-efficient fine-tuning (PEFT) techniques, semantic supervision strategy, and pre-trained MF-UATR. Extensive experiments on two public datasets, DeepShip and ShipsEar, demonstrate that the proposed frameworks achieve optimal target recognition performance under regular and few-shot settings.
