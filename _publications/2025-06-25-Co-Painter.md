@@ -2,7 +2,7 @@
 title: "Co-Painter: Fine-Grained Controllable Image Stylization via Implicit Decoupling and Adaptive Injection. International Conference on Computer Vision"
 collection: International Conference on Computer Vision
 date: 2025-06-25
-venue: N/A'
+permalink: /publication/2025-06-25-Co-Painter
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://iccv.thecvf.com/virtual/2025/poster/2710)'
 citation: 'Bowen Fu, etc. (2025). Co-Painter: Fine-Grained Controllable Image Stylization via Implicit Decoupling and Adaptive Injection. International Conference on Computer Vision; ICCV 2025.'
 ---
